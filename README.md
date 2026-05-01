@@ -473,7 +473,7 @@ Prerequisites:
 
 Langkah Instalasi & Eksekusi:
 
-1. **Klon repositori**
+1. **Clone Repository**
    ```bash
    git clone https://github.com/NafishZaldinanda/gtfs-mrt-jakarta.git
    cd gtfs-mrt-jakarta
